@@ -4,7 +4,7 @@
  */
 
 /**
- * Step 2: Import from crypto-js module the sha265 library
+ * Step 2: Import from crypto-js module the sha256 library
  */
 
 // Write your code here
